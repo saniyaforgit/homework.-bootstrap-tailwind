@@ -1,0 +1,20 @@
+body {
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    height: 100vh;
+}
+
+.header {
+    background-color: darkblue;
+    width: 1300px;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    font-family: ;
+
+}
+
+.left {
+
+}
